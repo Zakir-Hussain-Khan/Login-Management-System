@@ -2,6 +2,6 @@ The Login Management System is a secure user authentication platform designed to
 
 ## Installation
 1. Clone the repository or download the ZIP file:
-   ```bash git clone https://github.com/Zakir-Hussain-Khan/Login-Management-System.git
-
+   ```bash
+   git clone https://github.com/Zakir-Hussain-Khan/Login-Management-System.git
 
